@@ -1,6 +1,5 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Climate Informatics Conferences"
+permalink: /Conferences/
 author_profile: true
 ---
