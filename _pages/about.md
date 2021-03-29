@@ -1,10 +1,11 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Climate Informatics"
 ---
 
-## About Climate Informatics
+We are a group of people enthusiastic about the new field of climate informatics. By creating this web page we hope to bring people from different disciplines together, to form new collaborations and discuss new ideas. In short, to speed up the rate of discovery in climate science.
 
+This test website was created by Yuhan (Douglas) Rao.
 
 ### What is Climate Informatics?
 
@@ -13,14 +14,6 @@ machine learning and data mining. Through the annual conference series and throu
 bring together researchers from all of these areas. We hope to stimulate discussion of new ideas, foster 
 new collaborations, grow the climate informatics community, and thus accelerate discovery across 
 disciplinary boundaries.
-
-
-### About Us
-
-We are a group of people enthusiastic about the new field of climate informatics. By creating this web page we hope to bring people from different disciplines together, to form new collaborations and discuss new ideas. In short, to speed up the rate of discovery in climate science.
-
-This test website was created by Yuhan (Douglas) Rao.
-
 
 ### Climate Informatics Google Group
 
