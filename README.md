@@ -1,6 +1,24 @@
-# Minimal Mistakes remote theme starter
+# Climate Informatics community website guide
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This repository host the website for the community of practice around climate informatics. 
+The website is in its beta version and will have more updated features in the coming months.
+
+By moving from the original drupal-based website to Jekyll-powered GitHub pages, this new 
+community website allows contribution from all members to keep the community relevant and 
+up to date. 
+
+We hope members can contribute your recent publications, thoughtful writings, open data
+sets, and relevant events to advance the field of climate informatics.
+
+To contribute to the website, simply make a pull request in this repository.
+
+We currently welcome contributions of 
+
+- Announcements
+- Blogs
+- Events
+- Data sets
+- Publications
 
 Contains basic configuration to get you a site with:
 
@@ -15,13 +33,3 @@ Contains basic configuration to get you a site with:
 - Site wide search.
 
 Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
