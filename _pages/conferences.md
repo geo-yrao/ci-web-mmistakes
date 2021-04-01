@@ -4,8 +4,6 @@ permalink: /Conferences/
 author_profile: true
 ---
 
-# About the Conference Series 
-
 One of the main activities of the climate informatics community is the annual conference series, 
 typically held in September of each year. The conference series was founded by Claire Monteleoni
 and Gavin Schmidt.
